@@ -1,0 +1,2 @@
+## Access the Food and Nutrient Database for Dietary Studies (FNDDS) database at [this link](https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fndds/).
+## You can download specific year versions from [this link](https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fndds-download-databases/).
